@@ -1,0 +1,8 @@
+{
+  "version": 2,
+  "name": "yaler-ptth-xlecrev", 
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/api/index" }
+  ],
+  "trailingSlash": false
+}
